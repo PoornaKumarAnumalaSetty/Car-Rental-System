@@ -1,4 +1,4 @@
-🚗✨ Car Rental System – Java Project Description
+#🚗✨ Car Rental System – Java Project Description#
 The Car Rental System is a simple yet powerful Java application that simulates a real-world vehicle rental platform 🏁. Built using Object-Oriented Programming (OOP) principles and connected to a MySQL database, it allows users to rent vehicles and admins to manage the fleet, ensuring smooth rental operations.
 
 🔧 Tech Stack Used
